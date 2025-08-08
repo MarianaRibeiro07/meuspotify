@@ -6,8 +6,11 @@ O objetivo foi recriar e prototipar 3 telas inspiradas no Spotify, para assim de
 definiçao de cores e interação do usúario para navegar nas telas.
 
 As telas desenvolvidas incluem:
+
 Tela de abertura- Foi criado uma tela preta e apenas com o logo do spotify centralizado ao meio, para demonstrar a inicialização do aplicativo.
+
 Tela de Loginn – Interface para entrada do usuário, com campos para e-mail/senha.
+
 Tela Inicial – Exibição das playlists e álbuns em destaque, seguindo o estilo visual do Spotify.
 
 🛠️ Ferramentas Utilizadas
